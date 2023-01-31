@@ -11,7 +11,7 @@
 
 ### Classic Games
 
-- <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)l> <[Github Link]( https://github.com/njustesen/botbowl)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
+- <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)> <[Github Link]( https://github.com/njustesen/botbowl)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
 - <[ColorShapeLinks: A board game AI competition for educators and students](https://www.sciencedirect.com/science/article/pii/S2666920X21000084)> by Nuno Fachada, 2021.
 - <[Mjx: A framework for mahjong ai rese](https://ieeexplore.ieee.org/document/9893712 )> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
 - <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
