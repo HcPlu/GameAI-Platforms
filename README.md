@@ -18,7 +18,8 @@
 - <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> by Marc Lanctot, etc, 2020.
 - <[TAG: Tabletop Games Framework](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
 - <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
-
+- <[GGP](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> by Genesereth, M., Love, N. and Pell, B., 2005. 
+- <[Ludii](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/LudiiAICompetition)> Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
 
 
 ### Video Games
