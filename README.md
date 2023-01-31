@@ -34,7 +34,7 @@
 
 - <[Introducing the hearthstone-ai competition](https://arxiv.org/pdf/1906.04238.pdf)> <[Github Link](https://github.com/HearthSim/SabberStone)> <[Competition Link](https://hearthstoneai.github.io/)> by Alexander Dockhorn and Sanaz Mostaghim, 2019.
 - <[The first microRTS artificial intelligence competition](file:///D:/Downloads/2777-Article%20Text-5552-1-10-20180316%20(6).pdf)> <[Github Link]((https://github.com/Farama-Foundation/MicroRTS))> <[Competition Link](https://sites.google.com/site/micrortsaicompetition/introduction)>by Santiago Ontañón., 2018.
-- <[Tribes: A New Turn-Based Strategy Game for AI](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AIIDE/article/download/7438/7287/&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=2952481408954743&ei=oEjZY8CqBezZsQKBrqCYCg&scisig=AAGBfm0tmWezAKiH5aYVWNyKR1wbJdT8vA)> <[Github Link]((https://github.com/GAIGResearch/Tribes))>by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
+- <[Tribes: A New Turn-Based Strategy Game for AI](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AIIDE/article/download/7438/7287/&hl=zh-CN&sa=T&oi=gsb-gga&ct=res&cd=0&d=2952481408954743&ei=oEjZY8CqBezZsQKBrqCYCg&scisig=AAGBfm0tmWezAKiH5aYVWNyKR1wbJdT8vA)> <[Github Link](https://github.com/GAIGResearch/Tribes)>by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
 - <[STRATEGA: A General Strategy Games Framework](https://www.tnt.uni-hannover.de/papers/data/1606/2020__AIIDE_SGW__STRATEGA__A_General_Strategy_Games_Framework.pdf)> <[Github Link](https://github.com/GAIGResearch/Stratega)> by Dockhorn, A., Grueso, J.H., Jeurissen, D. and Liebana, D.P., 2020.
 
 
