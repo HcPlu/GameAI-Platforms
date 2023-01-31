@@ -96,8 +96,8 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 
 ### Game Tuning
 
-- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
-- <[AIGD2](https://ieeexplore.ieee.org/document/8490377/)>  by Lucas, Simon M , 2018.
+- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
+- <[AIGD2](https://ieeexplore.ieee.org/document/8490377/)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> by Lucas, Simon M , 2018.
 
 
 
@@ -106,7 +106,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 #### 2D Map/Level
 
 - <[The Mario AI Benchmark and Competitions](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
-- <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
+- <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> <[Github Link](https://github.com/mguzdial3/Morai-Maker-Engine)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
 - <[Procedural zelda: A pcg environment for player experience research](https://dl.acm.org/doi/10.1145/3102071.3102091)> <[Github Link](https://github.com/zeldaresearch/Zelda-ALTTP-Platform)> by Heijne, Norbert and Bakkes, Sander , 2017.
 - <[Talakat: Bullet hell generation through constrained map-elites](https://arxiv.org/abs/1806.04718)> <[Github Link](https://github.com/amidos2006/Talakat)> by Khalifa, Ahmed and Lee, Scott and Nealen, Andy and Togelius, Julian , 2018.
 - <[AIBIRDS](https://doi.org/10.1038/s42256-019-0072-x)> <[Github Link](https://github.com/iccl-lab/aibirds-simbaDD-2019)> by Renz, Jochen and Ge, XiaoYu and Stephenson, Matthew and Zhang, Peng , 2019.
@@ -130,8 +130,8 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 
 #### Rhythm Chart
 
-- <[StepMania](https://www.stepmania.com/)> 
-- <[OSU!](https://osu.ppy.sh/home)> 
+- <[StepMania](https://www.stepmania.com/)> <[Github Link](https://github.com/stepmania/stepmania)>
+- <[OSU!](https://osu.ppy.sh/home)> <[Github Link](https://github.com/ppy/osu)>
 
 
 
