@@ -43,11 +43,11 @@
 
 - <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
 - <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
-- <[General Video Game AI](https://github.com/GAIGResearch/GVGAI)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
+- <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
 - <[The NetHack Learning Environment](https://arxiv.org/abs/2006.13760)> <[Github Link](https://github.com/facebookresearch/nle)> by Küttler, Heinrich and Nardelli, Nantas and Miller, Alexander H. and Raileanu, Roberta and Selvatici, Marco and Grefenstette, Edward and Rocktäschel, Tim, 2020.
 - <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)>by Christopher Bamfor, 2021.
 - <[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://github.com/openai/neural-mmo)> by  Joseph Suarez, Yilun Du, Clare Zhu,Igor Mordatch, and Phillip Isol, 2021.
-- <[Snakes AI Competition 2020 and 2021 Report](https://github.com/BeLuckyDaf/snakes-game-tutorial)> by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
+- <[Snakes AI Competition 2020 and 2021 Report](https://arxiv.org/pdf/2108.05136.pdf)> <[Github Link](https://github.com/BeLuckyDaf/snakes-game-tutorial)>by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
 - <[Melting Pot](http://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf)> <[Github Link](https://github.com/deepmind/meltingpot)> by Joel Z. Leibo .etc , 2021.
 
 
