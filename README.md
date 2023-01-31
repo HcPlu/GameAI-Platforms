@@ -24,8 +24,8 @@
 
 ### Video Games
 
-- <[OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)> by Greg Brockman, Vicki Cheung,450Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zarem , 2016.
-- <[Pettingzoo: Gym for multi-agent reinforcement learning](https://github.com/Farama-Foundation/PettingZoo)> by Terry, J. K and Black, Benjamin and Grammel, Nathaniel and Jayakumar, Mario and Hari, Ananth and Sulivan, Ryan and Santos, Luis and Perez, Rodrigo and Horsch, Caroline and Dieffendahl, Clemens and Williams, Niall L and Lokesh, Yashas and Sullivan, Ryan and Ravi, Praveen, 2020.
+- <[OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)> <[Github Link](https://github.com/openai/gym)> by Greg Brockman, Vicki Cheung,450Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zarem , 2016.
+- <[Pettingzoo: Gym for multi-agent reinforcement learning](https://github.com/Farama-Foundation/PettingZoo)> <[Github Link](https://github.com/Farama-Foundation/PettingZoo)> by Terry, J. K and Black, Benjamin and Grammel, Nathaniel and Jayakumar, Mario and Hari, Ananth and Sulivan, Ryan and Santos, Luis and Perez, Rodrigo and Horsch, Caroline and Dieffendahl, Clemens and Williams, Niall L and Lokesh, Yashas and Sullivan, Ryan and Ravi, Praveen, 2020.
 
 
 
