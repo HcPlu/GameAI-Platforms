@@ -17,7 +17,7 @@
 - <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
 - <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> by Marc Lanctot, etc, 2020.
 - <[TAG: Tabletop Games Framework](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
-- <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
+- <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
 
 
 
