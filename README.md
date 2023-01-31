@@ -86,7 +86,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 
 ### Other Games
 
-- <[AI wolf contest—development of game AI using collective intelligence](https://github.com/aiwolf/AIWolfPy)> by Toriumi, Fujio and Osawa, Hirotaka and Inaba, Michimasa and Katagami, Daisuke and Shinoda, Kosuke and Matsubara, Hitoshi , 2016.
+- <[AI wolf contest—development of game AI using collective intelligence](https://github.com/aiwolf/AIWolfPy)> <[Github Link](https://github.com/aiwolf/AIWolfPy)> by Toriumi, Fujio and Osawa, Hirotaka and Inaba, Michimasa and Katagami, Daisuke and Shinoda, Kosuke and Matsubara, Hitoshi , 2016.
 
 - <[Using Fractal Neural Networks to Play SimCity 1 and Conway’s Game of Life at Variable Scales](https://arxiv.org/abs/2002.03896)> <[Github Link](https://github.com/smearle/gym-city)> by Earle, S., 2020.
 
