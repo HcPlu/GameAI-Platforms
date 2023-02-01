@@ -61,6 +61,7 @@
 https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
 - <[ Procgen ](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
 - <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> by  Zhang Haifeng and Yahui C , 2022.
+- <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> by Simon M. Lucas
 
 
 
