@@ -150,12 +150,11 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 
 
 # Note
-
+To cite the work, please use the following:
 ```
 @misc{hu2023game,
-author={Hu, Chengpeng and Wang, Ziqi and Zhao, Yunlong and Du, Haocheng and Liu, Jialin},
-title = {Game-based Platforms for Artificial Intelligence Research},
-year = {2023}
+ author={Hu, Chengpeng and Wang, Ziqi and Zhao, Yunlong and Du, Haocheng and Liu, Jialin},
+ title = {Game-based Platforms for Artificial Intelligence Research},
+ year = {2023}
 }
-
 ```
