@@ -102,12 +102,12 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 #### 2D Map/Level
 
-- <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
+- <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> <[Competition Link](https://sites.google.com/site/platformersai/platformer-ai-competition)> by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Procedural zelda: A pcg environment for player experience research](https://dl.acm.org/doi/10.1145/3102071.3102091)> <[Github Link](https://github.com/zeldaresearch/Zelda-ALTTP-Platform)> by Heijne, Norbert and Bakkes, Sander , 2017.
 - <[Talakat: Bullet hell generation through constrained map-elites](https://arxiv.org/abs/1806.04718)> <[Github Link](https://github.com/amidos2006/Talakat)> by Khalifa, Ahmed and Lee, Scott and Nealen, Andy and Togelius, Julian , 2018.
 - <[AIBIRDS](https://doi.org/10.1038/s42256-019-0072-x)> <[Github Link](https://github.com/iccl-lab/aibirds-simbaDD-2019)> by Renz, Jochen and Ge, XiaoYu and Stephenson, Matthew and Zhang, Peng , 2019.
 - <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> <[Github Link](https://github.com/mguzdial3/Morai-Maker-Engine)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
-- <[PCGRL Learning](https://arxiv.org/abs/2001.09212)> by Khalifa, Ahmed and Bontrager, Philip and Earle, Sam and Togelius, Julian , 2020.
+- <[PCGRL Learning](https://arxiv.org/abs/2001.09212)> <[Github Link](https://github.com/amidos2006/gym-pcgrl)> by Khalifa, Ahmed and Bontrager, Philip and Earle, Sam and Togelius, Julian , 2020.
 - <[Keiki: Towards Realistic Danmaku Generation via Sequential GANs](https://arxiv.org/abs/2107.02991)> <[Github Link](https://github.com/PneuC/Keiki)> by Wang, Ziqi and Liu, Jialin and Yannakakis, Georgios N , 2021.
 
 
