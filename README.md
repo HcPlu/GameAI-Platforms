@@ -1,11 +1,11 @@
-# Game-based AI Platforms List
+# Game-based AI Platforms
 
 
 
 
 
 
-## Games of Playing
+## Playing Games by AI
 
 
 
@@ -98,7 +98,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 
 
 
-### Content Generation
+### Design Games by AI
 
 #### 2D Map/Level
 
