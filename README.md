@@ -47,7 +47,7 @@
 ### Pixel-based 2D Video Games
 
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
-- <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
+- <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Github Link](https://gaips.inesc-id.pt/geometryfriends/?page_id=35)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
 - <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
 https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
