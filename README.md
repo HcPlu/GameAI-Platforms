@@ -30,7 +30,7 @@
 
 ### Grid-based 2D Video Games
 
-- <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
+- <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> <[Competition Link](https://www.pommerman.com/competitions)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
 - <[The first microRTS artificial intelligence competition](https://ojs.aaai.org/index.php/aimagazine/article/view/2777)> <[Github Link](https://github.com/Farama-Foundation/MicroRTS)> <[Competition Link](https://sites.google.com/site/micrortsaicompetition/introduction)> by Santiago Ontañón., 2018.
 - <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
 - <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> <[Competition Link](http://aingames.cn/gvgai/cog2021/)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
