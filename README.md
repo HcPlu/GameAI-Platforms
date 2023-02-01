@@ -19,7 +19,7 @@
 - <[TAG: Tabletop Games Framework](https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y)> <[Github Link](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
 - <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
 - <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> by Genesereth, M., Love, N. and Pell, B., 2005. 
-- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
+- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
 
 
 ### Video Games
@@ -118,7 +118,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 #### 3D Map/Level
 
-- <[The AI settlement generation challenge in minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0)> <[Github Link](https://github.com/mcgreentn/GDMC)> by Salge, Christoph and Green, Michael Cerny and Canaan, Rodrigo and Skwarski, Filip and Fritsch, Rafael and Brightmoore, Adrian and Ye, Shaofang and Cao, Changxing and Togelius, Julian , 2020.
+- <[The AI settlement generation challenge in minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0)> <[Github Link](https://github.com/mcgreentn/GDMC)> <[Competition](https://gendesignmc.engineering.nyu.edu/)> by Salge, Christoph and Green, Michael Cerny and Canaan, Rodrigo and Skwarski, Filip and Fritsch, Rafael and Brightmoore, Adrian and Ye, Shaofang and Cao, Changxing and Togelius, Julian , 2020.
 - <[Say “Sul Sul!” to SimSim, A Sims-Inspired Platform for Sandbox Game AI](https://arxiv.org/abs/2008.11258)> <[Github Link]( https://github.com/lsoros/simsim)> by Charity, Megan and Rajesh, Dipika and Ombok, Rachel and Soros, Lisa B , 2020.
 
 
