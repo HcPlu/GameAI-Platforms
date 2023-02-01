@@ -142,9 +142,9 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 ### Other Design
 
 - <[Evolving personas for player decision modeling](https://ieeexplore.ieee.org/document/6932911/)> <[Github Link](https://github.com/sentientdesigns/minidungeons)> by Holmgard, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N , 2014.
-- <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
-- <[Baba is Y’all: Collaborative Mixed-Initiative Level Design](https://arxiv.org/abs/2003.14294)> by Charity, Megan and Khalifa, Ahmed and Togelius, Julian , 2020.
-- <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
+- <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> <[Github Link](https://github.com/TheVGLC/TheVGLC)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
+- <[Baba is Y’all: Collaborative Mixed-Initiative Level Design](https://arxiv.org/abs/2003.14294)> <[Web page](http://equius.gil.engineering.nyu.edu/)> by Charity, Megan and Khalifa, Ahmed and Togelius, Julian , 2020.
+- <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> <[Web page](http://akhalifa.com/lodeencoder/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
 
 
 
