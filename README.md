@@ -58,7 +58,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 
 ### 3D Video Games
-- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
+- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> <[Competition Link](https://vizdoom.cs.put.edu.pl/competitions/vdaic-2018-cig)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
 - <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
 
