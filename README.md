@@ -47,7 +47,7 @@
 ### Pixel-based 2D Video Games
 
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
-- <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
+- <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Github Link](https://gaips.inesc-id.pt/geometryfriends/?page_id=35)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
 - <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
 https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
@@ -74,10 +74,10 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 ### Commercial Games
 
 - <[Monte Carlo Tree Search Experiments in Hearthstone](https://ieeexplore.ieee.org/abstract/document/8080446)> <[Github Link](https://github.com/demilich1/metastone)> by Santos, Andr{\'e} and Santos, Pedro A and Melo, Francisco S , 2017.
-- <[Starcraft II: A new challenge for reinforcement learning](https://arxiv.org/abs/1708.04782)> by Vinyals, Oriol and Ewalds, Timo and Bartunov, Sergey and Georgiev, Petko and Vezhnevets, Alexander Sasha and Yeo, Michelle and Makhzani, Alireza and K{\"u}ttler, Heinrich and Agapiou, John and Schrittwieser, Julian and others , 2017.
+- <[Starcraft II: A new challenge for reinforcement learning](https://arxiv.org/abs/1708.04782)> <[Github Link](https://github.com/deepmind/pysc2)>by Vinyals, Oriol and Ewalds, Timo and Bartunov, Sergey and Georgiev, Petko and Vezhnevets, Alexander Sasha and Yeo, Michelle and Makhzani, Alireza and K{\"u}ttler, Heinrich and Agapiou, John and Schrittwieser, Julian and others , 2017.
 - <[Dota 2 with large scale deep reinforcement learning](https://arxiv.org/abs/1912.06680)> <[Github Link](https://github.com/2aius/d2ai)> by Berner, Christopher and Brockman, Greg and Chan and others , 2019.
 - <[Overcooked! On the utility of learning about humans for human-ai coordination](https://proceedings.neurips.cc/paper/2019/file/f5b1b89d98b7286673128a5fb112cb9a-Paper.pdf)> <[Github Link](https://github.com/HumanCompatibleAI/overcooked_ai)> by Carroll, Micah and Shah, Rohin and Ho, Mark K. and Griffiths, Thomas L. and Seshia, Sanjit A. and Abbeel, Pieter and Dragan, Anca , 2019.
-- <[Honor of Kings Arena: an Environment for Generalization in Competitive Reinforcement Learning](https://github.com/tencent-ailab/hok_env)> by Wei, Hua and Chen, Jingxiao and Ji, Xiyang and Qin, Hongyang and Deng, Minwen and Li, Siqin and Wang, Liang and Zhang, Weinan and Yu, Yong and Liu, Lin and Huang, Lanxiao and Ye, Deheng and Fu, Qiang and Yang, Wei , 2022.
+- <[Honor of Kings Arena: an Environment for Generalization in Competitive Reinforcement Learning](https://arxiv.org/pdf/2209.08483.pdf)> <[Github Link]((https://github.com/tencent-ailab/hok_env))>by Wei, Hua and Chen, Jingxiao and Ji, Xiyang and Qin, Hongyang and Deng, Minwen and Li, Siqin and Wang, Liang and Zhang, Weinan and Yu, Yong and Liu, Lin and Huang, Lanxiao and Ye, Deheng and Fu, Qiang and Yang, Wei , 2022.
 
 
 
