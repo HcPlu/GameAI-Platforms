@@ -2,6 +2,18 @@
 
 
 
+This page provides the links to the source code of the game-based platforms for AI research, corresponding research papers, and competitions collected in our survey paper ``Game-based Platforms for Artificial Intelligence Research''.
+
+Please use this bibtex if you want to cite our work:
+
+````
+@article{hu2023game,
+  title={Game-based Platforms for Artificial Intelligence Research},
+  author={Hu, Chengpeng and Wang, Ziqi and Zhao, Yunlong and Du, Haocheng and Liu, Jialin},
+  journal={under single-blind review},
+  year={2023}
+}
+````
 
 
 
