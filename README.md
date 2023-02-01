@@ -106,7 +106,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 
 #### 2D Map/Level
 
-- <[The Mario AI Benchmark and Competitions](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
+- <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)>by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> <[Github Link](https://github.com/mguzdial3/Morai-Maker-Engine)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
 - <[Procedural zelda: A pcg environment for player experience research](https://dl.acm.org/doi/10.1145/3102071.3102091)> <[Github Link](https://github.com/zeldaresearch/Zelda-ALTTP-Platform)> by Heijne, Norbert and Bakkes, Sander , 2017.
 - <[Talakat: Bullet hell generation through constrained map-elites](https://arxiv.org/abs/1806.04718)> <[Github Link](https://github.com/amidos2006/Talakat)> by Khalifa, Ahmed and Lee, Scott and Nealen, Andy and Togelius, Julian , 2018.
@@ -125,7 +125,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 
 #### Narrative
 
-- <[Bringing stories alive: Generating interactive fiction worlds](https://arxiv.org/abs/2001.10161)>  by Ammanabrolu, Prithviraj and Cheung, Wesley and Tu, Dan and Broniec, William and Riedl, Mark , 2020.
+- <[Bringing stories alive: Generating interactive fiction worlds](https://arxiv.org/abs/2001.10161)> <[Github Link](https://github.com/rajammanabrolu/WorldGeneration)> by Ammanabrolu, Prithviraj and Cheung, Wesley and Tu, Dan and Broniec, William and Riedl, Mark , 2020.
 
 
 
@@ -148,7 +148,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment (old))> by Nadav Bhonker
 - <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
 - <[Evolving personas for player decision modeling](https://ieeexplore.ieee.org/document/6932911/)> <[Github Link](https://github.com/sentientdesigns/minidungeons)> by Holmgard, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N , 2014.
 - <[Baba is Y’all: Collaborative Mixed-Initiative Level Design](https://arxiv.org/abs/2003.14294)> by Charity, Megan and Khalifa, Ahmed and Togelius, Julian , 2020.
-- <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> <[Github Link](https://github.com/SimonHung/LodeRunner_TotalRecall (Engine))> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
+- <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
 
 
 
