@@ -49,7 +49,7 @@
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> <[Competition Link](http://julian.togelius.com/mariocompetition2009/index.php)> by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Github Link](https://gaips.inesc-id.pt/geometryfriends/?page_id=35)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
 - <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
-https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
+https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](https://openai.com/blog/retro-contest/)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
 - <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> Lucas, S.M., 2018.
 - <[Angry Bird AI Competition](https://aibirds.org/)> by Renz Jochen, Zhang Peng, (Gary) Ge XiaoYu, Nikonova Ekaterina, Gamage Chathura, Xue Cheng, and Pinto Vimukthin , 2012.
 - <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
