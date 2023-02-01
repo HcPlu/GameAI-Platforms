@@ -9,17 +9,17 @@
 
 
 
-### Classic Games
+### Tabletop Games
 
-- <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)> <[Github Link]( https://github.com/njustesen/botbowl)>  <[Competition Link](https://njustesen.github.io/botbowl/bot-bowl-iii.html)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
-- <[ColorShapeLinks: A board game AI competition for educators and students](https://www.sciencedirect.com/science/article/pii/S2666920X21000084)> <[Github Link](https://github.com/VideojogosLusofona/color-shape-links-ai-competition)> <[Competition Link](https://videojogoslusofona.github.io/color-shape-links-ai-competition/)> by Nuno Fachada, 2021.
-- <[Mjx: A framework for Mahjong AI research](https://ieeexplore.ieee.org/document/9893712)>  <[Github Link](https://github.com/mjx-project/mjx)> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
+- <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> by Genesereth, M., Love, N. and Pell, B., 2005. 
 - <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> <[Competition Link](https://en.botzone.org.cn/)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
 - <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> <[Github Link](https://github.com/deepmind/open_spiel)> by Marc Lanctot, etc, 2020.
 - <[TAG: Tabletop Games Framework](https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y)> <[Github Link](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
-- <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
-- <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> by Genesereth, M., Love, N. and Pell, B., 2005. 
+- <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)> <[Github Link]( https://github.com/njustesen/botbowl)>  <[Competition Link](https://njustesen.github.io/botbowl/bot-bowl-iii.html)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
 - <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition Link](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
+- <[ColorShapeLinks: A board game AI competition for educators and students](https://www.sciencedirect.com/science/article/pii/S2666920X21000084)> <[Github Link](https://github.com/VideojogosLusofona/color-shape-links-ai-competition)> <[Competition Link](https://videojogoslusofona.github.io/color-shape-links-ai-competition/)> by Nuno Fachada, 2021.
+- <[Mjx: A framework for Mahjong AI research](https://ieeexplore.ieee.org/document/9893712)>  <[Github Link](https://github.com/mjx-project/mjx)> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
+- <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
 
 
 ### Video Games
@@ -28,23 +28,15 @@
 - <[Pettingzoo: Gym for multi-agent reinforcement learning](https://github.com/Farama-Foundation/PettingZoo)> <[Github Link](https://github.com/Farama-Foundation/PettingZoo)> by Terry, J. K and Black, Benjamin and Grammel, Nathaniel and Jayakumar, Mario and Hari, Ananth and Sulivan, Ryan and Santos, Luis and Perez, Rodrigo and Horsch, Caroline and Dieffendahl, Clemens and Williams, Niall L and Lokesh, Yashas and Sullivan, Ryan and Ravi, Praveen, 2020.
 
 
-
-
-### Strategy Games
-
-- <[Introducing the hearthstone-ai competition](https://arxiv.org/pdf/1906.04238.pdf)> <[Github Link](https://github.com/HearthSim/SabberStone)> <[Competition Link](https://hearthstoneai.github.io/)> by Alexander Dockhorn and Sanaz Mostaghim, 2019.
-- <[The first microRTS artificial intelligence competition](https://ojs.aaai.org/index.php/aimagazine/article/view/2777)> <[Github Link](https://github.com/Farama-Foundation/MicroRTS)> <[Competition Link](https://sites.google.com/site/micrortsaicompetition/introduction)> by Santiago Ontañón., 2018.
-- <[Tribes: A New Turn-Based Strategy Game for AI](https://ojs.aaai.org/index.php/AIIDE/article/view/7438)> <[Github Link](https://github.com/GAIGResearch/Tribes)> by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
-- <[STRATEGA: A General Strategy Games Framework](https://www.tnt.uni-hannover.de/papers/data/1606/2020__AIIDE_SGW__STRATEGA__A_General_Strategy_Games_Framework.pdf)> <[Github Link](https://github.com/GAIGResearch/Stratega)> by Dockhorn, A., Grueso, J.H., Jeurissen, D. and Liebana, D.P., 2020.
-
-
-
-### Grid Video Games
+### Grid-based 2D Video Games
 
 - <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
+- <[The first microRTS artificial intelligence competition](https://ojs.aaai.org/index.php/aimagazine/article/view/2777)> <[Github Link](https://github.com/Farama-Foundation/MicroRTS)> <[Competition Link](https://sites.google.com/site/micrortsaicompetition/introduction)> by Santiago Ontañón., 2018.
 - <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
 - <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> <[Competition Link](http://aingames.cn/gvgai/cog2021/)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
-- <[The NetHack Learning Environment](https://arxiv.org/abs/2006.13760)> <[Github Link](https://github.com/facebookresearch/nle)> by Küttler, Heinrich and Nardelli, Nantas and Miller, Alexander H. and Raileanu, Roberta and Selvatici, Marco and Grefenstette, Edward and Rocktäschel, Tim, 2020.
+- <[The NetHack Learning Environment](https://arxiv.org/abs/2006.13760)> <[Github Link](https://github.com/facebookresearch/nle)> <[Competition Line](https://nethackchallenge.com/)> by Küttler, Heinrich and Nardelli, Nantas and Miller, Alexander H. and Raileanu, Roberta and Selvatici, Marco and Grefenstette, Edward and Rocktäschel, Tim, 2020.
+- <[STRATEGA: A General Strategy Games Framework](https://www.tnt.uni-hannover.de/papers/data/1606/2020__AIIDE_SGW__STRATEGA__A_General_Strategy_Games_Framework.pdf)> <[Github Link](https://github.com/GAIGResearch/Stratega)> by Dockhorn, A., Grueso, J.H., Jeurissen, D. and Liebana, D.P., 2020.
+- <[Tribes: A New Turn-Based Strategy Game for AI](https://ojs.aaai.org/index.php/AIIDE/article/view/7438)> <[Github Link](https://github.com/GAIGResearch/Tribes)> by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
 - <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)> by Christopher Bamfor, 2021.
 - <[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784.pdf)> <[Github Link](https://github.com/openai/neural-mmo)>  <[Competition Link](https://www.aicrowd.com/challenges/the-neural-mmo-challenge)> by Joseph Suarez, Yilun Du, Clare Zhu, Igor Mordatch, and Phillip Isol, 2021.
 - <[Snakes AI Competition 2020 and 2021 Report](https://arxiv.org/pdf/2108.05136.pdf)> <[Github Link](https://github.com/BeLuckyDaf/snakes-game-tutorial)> by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
@@ -52,26 +44,30 @@
 
 
 
-### 2D Video Games
+### Pixel-based 2D Video Games
 
-- <[Angry Bird AI Competition](https://aibirds.org/)> by Renz Jochen, Zhang Peng, (Gary) Ge XiaoYu, Nikonova Ekaterina, Gamage Chathura, Xue Cheng, and Pinto Vimukthin , 2012.
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
+- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
 https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
-- <[ Procgen ](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
-- <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> by  Zhang Haifeng and Yahui C , 2022.
 - <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> Lucas, S.M., 2018.
-
+- <[Angry Bird AI Competition](https://aibirds.org/)> by Renz Jochen, Zhang Peng, (Gary) Ge XiaoYu, Nikonova Ekaterina, Gamage Chathura, Xue Cheng, and Pinto Vimukthin , 2012.
+- <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
+- <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> <[Competition Link](http://www.jidiai.cn/compete_detail?compete=17)> by  Zhang Haifeng and Yahui C , 2022.
+- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
 
 
 ### 3D Video Games
+- <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
+- <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
 
 - <[MiniWorld: Minimalistic 3D Environment for RL & Robotics Research](https://github.com/Farama-Foundation/Miniworld)> by Chevalier-Boisvert, Maxime, 2018.
-- <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
-- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
+
 - <[MineRL Diamond challenge](https://arxiv.org/pdf/1907.13440.pdf)> <[Github Link](https://github.com/minerllabs/minerl)> <[Competition Link](https://minerl.io/diamond/)> by William H. Guss and Houghton, Brandon and Topin, Nicholay and Wang, Phillip and Codel, Cayden and Veloso, Manuela and Salakhutdinov, Ruslan , 2019.
-- <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
+
+
+<!-- - <[Introducing the hearthstone-ai competition](https://arxiv.org/pdf/1906.04238.pdf)> <[Github Link](https://github.com/HearthSim/SabberStone)> <[Competition Link](https://hearthstoneai.github.io/)> by Alexander Dockhorn and Sanaz Mostaghim, 2019. -->
 
 
 
@@ -95,10 +91,10 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 ## Game for Design
 
-### Game Tuning
+<!-- ### Game Tuning
 
-- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
-- <[AIGD2](https://ieeexplore.ieee.org/document/8490377/)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> by Lucas, Simon M , 2018.
+
+- <[AIGD2](https://ieeexplore.ieee.org/document/8490377/)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> by Lucas, Simon M , 2018. -->
 
 
 
@@ -107,10 +103,10 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 #### 2D Map/Level
 
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> by Sergey Karakovskiy and Julian Togelius, 2012.
-- <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> <[Github Link](https://github.com/mguzdial3/Morai-Maker-Engine)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
 - <[Procedural zelda: A pcg environment for player experience research](https://dl.acm.org/doi/10.1145/3102071.3102091)> <[Github Link](https://github.com/zeldaresearch/Zelda-ALTTP-Platform)> by Heijne, Norbert and Bakkes, Sander , 2017.
 - <[Talakat: Bullet hell generation through constrained map-elites](https://arxiv.org/abs/1806.04718)> <[Github Link](https://github.com/amidos2006/Talakat)> by Khalifa, Ahmed and Lee, Scott and Nealen, Andy and Togelius, Julian , 2018.
 - <[AIBIRDS](https://doi.org/10.1038/s42256-019-0072-x)> <[Github Link](https://github.com/iccl-lab/aibirds-simbaDD-2019)> by Renz, Jochen and Ge, XiaoYu and Stephenson, Matthew and Zhang, Peng , 2019.
+- <[Friend, collaborator, student, manager: How design of an {AI}-driven game level editor affects creators](https://arxiv.org/pdf/1901.06417.pdf)> <[Github Link](https://github.com/mguzdial3/Morai-Maker-Engine)> Guzdial, Matthew and Liao, Nicholas and Chen, Jonathan and Chen, Shao-Yu and Shah, Shukan and Shah, Vishwa and Reno, Joshua and Smith, Gillian and Riedl, Mark O , 2019.
 - <[PCGRL Learning](https://arxiv.org/abs/2001.09212)> by Khalifa, Ahmed and Bontrager, Philip and Earle, Sam and Togelius, Julian , 2020.
 - <[Keiki: Towards Realistic Danmaku Generation via Sequential GANs](https://arxiv.org/abs/2107.02991)> <[Github Link](https://github.com/PneuC/Keiki)> by Wang, Ziqi and Liu, Jialin and Yannakakis, Georgios N , 2021.
 
@@ -136,17 +132,17 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 
 
-#### Board & Card
+#### Card
 
-- <[Ludi](https://link.springer.com/book/10.1007/978-1-4471-2179-4)> by Browne, Cameron and Maire, Frederic , 2010.
+<!-- - <[Ludi](https://link.springer.com/book/10.1007/978-1-4471-2179-4)> by Browne, Cameron and Maire, Frederic , 2010. -->
 - <[Monte carlo tree search experiments in hearthstone](https://ieeexplore.ieee.org/document/8080446/)> <[Github Link](https://github.com/demilich1/metastone)> by Santos, Andre and Santos, Pedro A and Melo, Francisco S , 2017.
 
 
 
 ### Other Design
 
-- <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
 - <[Evolving personas for player decision modeling](https://ieeexplore.ieee.org/document/6932911/)> <[Github Link](https://github.com/sentientdesigns/minidungeons)> by Holmgard, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N , 2014.
+- <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
 - <[Baba is Y’all: Collaborative Mixed-Initiative Level Design](https://arxiv.org/abs/2003.14294)> by Charity, Megan and Khalifa, Ahmed and Togelius, Julian , 2020.
 - <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
 
