@@ -39,7 +39,7 @@
 - <[Tribes: A New Turn-Based Strategy Game for AI](https://ojs.aaai.org/index.php/AIIDE/article/view/7438)> <[Github Link](https://github.com/GAIGResearch/Tribes)> by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
 - <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)> by Christopher Bamfor, 2021.
 - <[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784.pdf)> <[Github Link](https://github.com/openai/neural-mmo)>  <[Competition Link](https://www.aicrowd.com/challenges/the-neural-mmo-challenge)> by Joseph Suarez, Yilun Du, Clare Zhu, Igor Mordatch, and Phillip Isol, 2021.
-- <[Snakes AI Competition 2020 and 2021 Report](https://arxiv.org/pdf/2108.05136.pdf)> <[Github Link](https://github.com/BeLuckyDaf/snakes-game-tutorial)> by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
+- <[Snakes AI Competition 2020 and 2021 Report](https://arxiv.org/pdf/2108.05136.pdf)> <[Github Link](https://github.com/BeLuckyDaf/snakes-game-tutorial)> <[Competition Link](https://snake.wits.ai/)> by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
 - <[Melting Pot](http://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf)> <[Github Link](https://github.com/deepmind/meltingpot)> by Joel Z. Leibo .etc , 2021.
 
 
