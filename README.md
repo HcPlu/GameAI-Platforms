@@ -52,9 +52,9 @@
 https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](https://openai.com/blog/retro-contest/)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
 - <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> Lucas, S.M., 2018.
 - <[Angry Bird AI Competition](https://aibirds.org/)> by Renz Jochen, Zhang Peng, (Gary) Ge XiaoYu, Nikonova Ekaterina, Gamage Chathura, Xue Cheng, and Pinto Vimukthin , 2012.
-- <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
+- <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> <[Competition Link](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
 - <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> <[Competition Link](http://www.jidiai.cn/compete_detail?compete=17)> by  Zhang Haifeng and Yahui C , 2022.
-- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
+- <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> <[Competition Link](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-2.html)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
 
 
 ### 3D Video Games
