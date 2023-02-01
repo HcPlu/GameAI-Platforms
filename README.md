@@ -48,7 +48,6 @@
 
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> <[Competition Link](http://julian.togelius.com/mariocompetition2009/index.php)> by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Github Link](https://gaips.inesc-id.pt/geometryfriends/?page_id=35)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
-- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
 https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
 - <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> Lucas, S.M., 2018.
@@ -59,6 +58,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 
 ### 3D Video Games
+- <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
 - <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
 - <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
 
