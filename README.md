@@ -161,12 +161,3 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 - <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> <[Web page](http://akhalifa.com/lodeencoder/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
 
 
-# Note
-To cite the work, please use the following:
-```
-@misc{hu2023game,
- author={Hu, Chengpeng and Wang, Ziqi and Zhao, Yunlong and Du, Haocheng and Liu, Jialin},
- title = {Game-based Platforms for Artificial Intelligence Research},
- year = {2023}
-}
-```
