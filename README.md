@@ -13,13 +13,13 @@
 
 - <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)> <[Github Link]( https://github.com/njustesen/botbowl)>  <[Competition Link](https://njustesen.github.io/botbowl/bot-bowl-iii.html)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
 - <[ColorShapeLinks: A board game AI competition for educators and students](https://www.sciencedirect.com/science/article/pii/S2666920X21000084)> <[Github Link](https://github.com/VideojogosLusofona/color-shape-links-ai-competition)> <[Competition Link](https://videojogoslusofona.github.io/color-shape-links-ai-competition/)> by Nuno Fachada, 2021.
-- <[Mjx: A framework for Mahjong AI research](https://ieeexplore.ieee.org/document/9893712 )>  <[Github Link](https://github.com/mjx-project/mjx)> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
+- <[Mjx: A framework for Mahjong AI research](https://ieeexplore.ieee.org/document/9893712)>  <[Github Link](https://github.com/mjx-project/mjx)> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
 - <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> <[Competition Link](https://en.botzone.org.cn/)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
 - <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> <[Github Link](https://github.com/deepmind/open_spiel)> by Marc Lanctot, etc, 2020.
 - <[TAG: Tabletop Games Framework](https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y)> <[Github Link](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
 - <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
 - <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> by Genesereth, M., Love, N. and Pell, B., 2005. 
-- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
+- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition Link](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
 
 
 ### Video Games
@@ -43,7 +43,7 @@
 
 - <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
 - <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
-- <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
+- <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> <[Competition Link](http://aingames.cn/gvgai/cog2021/)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
 - <[The NetHack Learning Environment](https://arxiv.org/abs/2006.13760)> <[Github Link](https://github.com/facebookresearch/nle)> by Küttler, Heinrich and Nardelli, Nantas and Miller, Alexander H. and Raileanu, Roberta and Selvatici, Marco and Grefenstette, Edward and Rocktäschel, Tim, 2020.
 - <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)> by Christopher Bamfor, 2021.
 - <[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784.pdf)> <[Github Link](https://github.com/openai/neural-mmo)>  <[Competition Link](https://www.aicrowd.com/challenges/the-neural-mmo-challenge)> by Joseph Suarez, Yilun Du, Clare Zhu, Igor Mordatch, and Phillip Isol, 2021.
@@ -118,7 +118,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> by Nadav Bhonker, Shai
 
 #### 3D Map/Level
 
-- <[The AI settlement generation challenge in minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0)> <[Github Link](https://github.com/mcgreentn/GDMC)> <[Competition](https://gendesignmc.engineering.nyu.edu/)> by Salge, Christoph and Green, Michael Cerny and Canaan, Rodrigo and Skwarski, Filip and Fritsch, Rafael and Brightmoore, Adrian and Ye, Shaofang and Cao, Changxing and Togelius, Julian , 2020.
+- <[The AI settlement generation challenge in minecraft](https://link.springer.com/article/10.1007/s13218-020-00635-0)> <[Github Link](https://github.com/mcgreentn/GDMC)> <[Competition Link](https://gendesignmc.engineering.nyu.edu/)> by Salge, Christoph and Green, Michael Cerny and Canaan, Rodrigo and Skwarski, Filip and Fritsch, Rafael and Brightmoore, Adrian and Ye, Shaofang and Cao, Changxing and Togelius, Julian , 2020.
 - <[Say “Sul Sul!” to SimSim, A Sims-Inspired Platform for Sandbox Game AI](https://arxiv.org/abs/2008.11258)> <[Github Link]( https://github.com/lsoros/simsim)> by Charity, Megan and Rajesh, Dipika and Ombok, Rachel and Soros, Lisa B , 2020.
 
 
