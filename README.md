@@ -1,11 +1,23 @@
-# Game-based AI Platforms List
+# Game-based AI Platforms
 
 
 
+This page provides the links to the source code of the game-based platforms for AI research, corresponding research papers, and competitions collected in our survey paper ``Game-based Platforms for Artificial Intelligence Research''.
+
+Please use this bibtex if you want to cite our work:
+
+````
+@article{hu2023game,
+  title={Game-based Platforms for Artificial Intelligence Research},
+  author={Hu, Chengpeng and Wang, Ziqi and Zhao, Yunlong and Du, Haocheng and Liu, Jialin},
+  journal={under single-blind review},
+  year={2023}
+}
+````
 
 
 
-## Games of Playing
+## Playing Games by AI
 
 
 
@@ -108,7 +120,7 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 
 
 
-### Content Generation
+### Design Games by AI
 
 #### 2D Map/Level
 
@@ -149,12 +161,13 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 
 
 
+
+
 ### Other Design
 
 - <[Evolving personas for player decision modeling](https://ieeexplore.ieee.org/document/6932911/)> <[Github Link](https://github.com/sentientdesigns/minidungeons)> by Holmgard, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N , 2014.
 - <[VGLC : The Video Game Level Corpus](https://arxiv.org/abs/1606.07487)> <[Github Link](https://github.com/TheVGLC/TheVGLC)> by Adam James Summerville, Sam Snodgrass, Michael Mateas, Santiago Ontañón, 2016.
 - <[Baba is Y’all: Collaborative Mixed-Initiative Level Design](https://arxiv.org/abs/2003.14294)> <[Web page](http://equius.gil.engineering.nyu.edu/)> by Charity, Megan and Khalifa, Ahmed and Togelius, Julian , 2020.
 - <[Lode Encoder: AI-constrained co-creativity](https://ieeexplore.ieee.org/abstract/document/9619009/)> <[Web page](http://akhalifa.com/lodeencoder/)> by Bhaumik, Debosmita and Khalifa, Ahmed and Togelius, Julian , 2021.
-
 
 
