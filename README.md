@@ -9,38 +9,26 @@
 
 
 
-### Tabletop Games
+### Board Games
 
-- <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> <[Competition Link](https://www.aaai.org/Conferences/AAAI/2010/aaai10generalgame.php)> by Genesereth, M., Love, N. and Pell, B., 2005. 
-- <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> <[Competition Link](https://en.botzone.org.cn/)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
-- <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> <[Github Link](https://github.com/deepmind/open_spiel)> by Marc Lanctot, etc, 2020.
-- <[TAG: Tabletop Games Framework](https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y)> <[Github Link](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
 - <[Blood bowl](https://ieeexplore.ieee.org/abstract/document/8848063/)> <[Github Link]( https://github.com/njustesen/botbowl)>  <[Competition Link](https://njustesen.github.io/botbowl/bot-bowl-iii.html)> by Justesen, Niels and Uth, Lasse Møller and Jakobsen, Christopher and Moore, Peter David and Togelius, Julian and Risi, Sebastian, 2019.
-- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition Link](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
 - <[ColorShapeLinks: A board game AI competition for educators and students](https://www.sciencedirect.com/science/article/pii/S2666920X21000084)> <[Github Link](https://github.com/VideojogosLusofona/color-shape-links-ai-competition)> <[Competition Link](https://videojogoslusofona.github.io/color-shape-links-ai-competition/)> by Nuno Fachada, 2021.
 - <[Mjx: A framework for Mahjong AI research](https://ieeexplore.ieee.org/document/9893712)>  <[Github Link](https://github.com/mjx-project/mjx)> by Koyamada, Sotetsu and Habara, Keigo and Goto, Nao and Okano, Shinri and Nishimori, Soichiro and Ishii, Shin, 2022.
+
+### Social Games
 - <[It's Food Fight! Introducing the Chef's Hat Card Game for Affective-Aware HRI](https://arxiv.org/abs/2002.11458)> <[Github Link](https://github.com/pablovin/ChefsHatGYM)> <[Competition Link](https://whisperproject.eu/compcoop#competition)> by Pablo Barros and Alessandra Sciutti and Anne C. Bloem and Inge M. Hootsmans and Lena M. Opheij and Romain H.A. Toebosch and Emilia Barakova, 2021.
 
-
-### Video Games
-
-- <[OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)> <[Github Link](https://github.com/openai/gym)> by Greg Brockman, Vicki Cheung,450Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zarem , 2016.
-- <[Pettingzoo: Gym for multi-agent reinforcement learning](https://github.com/Farama-Foundation/PettingZoo)> <[Github Link](https://github.com/Farama-Foundation/PettingZoo)> by Terry, J. K and Black, Benjamin and Grammel, Nathaniel and Jayakumar, Mario and Hari, Ananth and Sulivan, Ryan and Santos, Luis and Perez, Rodrigo and Horsch, Caroline and Dieffendahl, Clemens and Williams, Niall L and Lokesh, Yashas and Sullivan, Ryan and Ravi, Praveen, 2020.
 
 
 ### Grid-based 2D Video Games
 
 - <[Pommerman](https://arxiv.org/abs/1809.07124)> <[Github Link](https://github.com/MultiAgentLearning/playground/tree/master/pommerman)> <[Competition Link](https://www.pommerman.com/competitions)> by Resnick, Cinjon and Eldridge, Wes and Ha, David and Britz, Denny and Foerster, Jakob and Togelius, Julian and Cho, Kyunghyun and Bruna, Joan, 2018.
 - <[The first microRTS artificial intelligence competition](https://ojs.aaai.org/index.php/aimagazine/article/view/2777)> <[Github Link](https://github.com/Farama-Foundation/MicroRTS)> <[Competition Link](https://sites.google.com/site/micrortsaicompetition/introduction)> by Santiago Ontañón., 2018.
-- <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
-- <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> <[Competition Link](http://aingames.cn/gvgai/cog2021/)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
 - <[The NetHack Learning Environment](https://arxiv.org/abs/2006.13760)> <[Github Link](https://github.com/facebookresearch/nle)> <[Competition Link](https://nethackchallenge.com/)> by Küttler, Heinrich and Nardelli, Nantas and Miller, Alexander H. and Raileanu, Roberta and Selvatici, Marco and Grefenstette, Edward and Rocktäschel, Tim, 2020.
-- <[STRATEGA: A General Strategy Games Framework](https://www.tnt.uni-hannover.de/papers/data/1606/2020__AIIDE_SGW__STRATEGA__A_General_Strategy_Games_Framework.pdf)> <[Github Link](https://github.com/GAIGResearch/Stratega)> by Dockhorn, A., Grueso, J.H., Jeurissen, D. and Liebana, D.P., 2020.
 - <[Tribes: A New Turn-Based Strategy Game for AI](https://ojs.aaai.org/index.php/AIIDE/article/view/7438)> <[Github Link](https://github.com/GAIGResearch/Tribes)> by Diego Perez Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Khaleque, Raluca Gaina, 2020.
-- <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)> by Christopher Bamfor, 2021.
 - <[Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents](https://arxiv.org/pdf/1903.00784.pdf)> <[Github Link](https://github.com/openai/neural-mmo)>  <[Competition Link](https://www.aicrowd.com/challenges/the-neural-mmo-challenge)> by Joseph Suarez, Yilun Du, Clare Zhu, Igor Mordatch, and Phillip Isol, 2021.
 - <[Snakes AI Competition 2020 and 2021 Report](https://arxiv.org/pdf/2108.05136.pdf)> <[Github Link](https://github.com/BeLuckyDaf/snakes-game-tutorial)> <[Competition Link](https://snake.wits.ai/)> by Joseph Alexander Brown, Luiz Jonata Pires de Araujo, and Alexandr Grichshenko, 2021.
-- <[Melting Pot](http://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf)> <[Github Link](https://github.com/deepmind/meltingpot)> by Joel Z. Leibo .etc , 2021.
+
 
 
 
@@ -48,23 +36,17 @@
 
 - <[The Mario AI Benchmark and Competitions](https://www.researchgate.net/profile/Julian_Togelius/publication/235974381_The_Mario_AI_Benchmark_and_Competitions/links/0deec52d8ffaa63301000000.pdf)> <[Github Link](https://github.com/amidos2006/Mario-AI-Framework)> <[Competition Link](http://julian.togelius.com/mariocompetition2009/index.php)> by Sergey Karakovskiy and Julian Togelius, 2012.
 - <[Geometry Friends Game AI competition](https://gaips.inesc-id.pt/~fmelo/publications/prada15cig.pdf)> <[Github Link](https://gaips.inesc-id.pt/geometryfriends/?page_id=35)> <[Competition Link](https://web.fe.up.pt/~epia2017/ai-competitions/geometry-friends/)> by Prada, Rui and Lopes, Phil and Catarino, João and Quitério, Joao and Melo, Francisco S. , 2015.
-- <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
-https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](https://openai.com/blog/retro-contest/)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
 - <[Game AI Research with Fast Planet Wars Variants](https://arxiv.org/pdf/1806.08544.pdf)> <[Github Link](https://github.com/GAIGResearch/AIGD2)> Lucas, S.M., 2018.
 - <[Angry Bird AI Competition](https://aibirds.org/)> by Renz Jochen, Zhang Peng, (Gary) Ge XiaoYu, Nikonova Ekaterina, Gamage Chathura, Xue Cheng, and Pinto Vimukthin , 2012.
-- <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> <[Competition Link](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
-- <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> <[Competition Link](http://www.jidiai.cn/compete_detail?compete=17)> by  Zhang Haifeng and Yahui C , 2022.
 - <[Fighting game artificial intelligence competition platform](https://ieeexplore.ieee.org/document/6664844)> <[Github Link](https://github.com/TeamFightingICE/FightingICE)> <[Competition Link](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-2.html)> by Lu, Feiyu and Yamamoto, Kaito and Nomura, Luis H and Mizuno, Syunsuke and Lee, YoungMin and Thawonmas, Ruck , 2013.
+
 
 
 ### 3D Video Games
 - <[ViZDoom: A Doom-based AI Research Platform for Visual Reinforcement Learning](https://github.com/Farama-Foundation/ViZDoom)> <[Competition Link](https://vizdoom.cs.put.edu.pl/competitions/vdaic-2018-cig)> by Marek Wydmuch and Micha{\l} Kempka and Wojciech Ja\'skowski , 2019.
-- <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
-- <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
-
-- <[MiniWorld: Minimalistic 3D Environment for RL & Robotics Research](https://github.com/Farama-Foundation/Miniworld)> by Chevalier-Boisvert, Maxime, 2018.
-
 - <[MineRL Diamond challenge](https://arxiv.org/pdf/1907.13440.pdf)> <[Github Link](https://github.com/minerllabs/minerl)> <[Competition Link](https://minerl.io/diamond/)> by William H. Guss and Houghton, Brandon and Topin, Nicholay and Wang, Phillip and Codel, Cayden and Veloso, Manuela and Salakhutdinov, Ruslan , 2019.
+
+
 
 
 <!-- - <[Introducing the hearthstone-ai competition](https://arxiv.org/pdf/1906.04238.pdf)> <[Github Link](https://github.com/HearthSim/SabberStone)> <[Competition Link](https://hearthstoneai.github.io/)> by Alexander Dockhorn and Sanaz Mostaghim, 2019. -->
@@ -87,9 +69,37 @@ https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](ht
 
 - <[Using Fractal Neural Networks to Play SimCity 1 and Conway’s Game of Life at Variable Scales](https://arxiv.org/abs/2002.03896)> <[Github Link](https://github.com/smearle/gym-city)> by Earle, S., 2020.
 
+## Platforms with Multiple Games
 
+- <[General game playing: Overview of the AAAI competition](https://ojs.aaai.org/index.php/aimagazine/article/view/1813)> <[Github Link]( https://github.com/arnaudsj/ggpserver)> <[Competition Link](https://www.aaai.org/Conferences/AAAI/2010/aaai10generalgame.php)> by Genesereth, M., Love, N. and Pell, B., 2005. 
+- <[Botzone](https://botzone.org.cn/static/gamecontest2020a.html)> <[Github Link](https://github.com/ailab-pku/Chinese-Standard-Mahjong)> <[Competition Link](https://en.botzone.org.cn/)> by Zhou, Haoyu and Zhou, Yushan and Zhang, Haifeng and Huang, Houjun and Li, Wenxin, 2017.
+- <[OpenSpiel: A Framework for Reinforcement Learning in Games](https://arxiv.org/pdf/1908.09453.pdf)> <[Github Link](https://github.com/deepmind/open_spiel)> by Marc Lanctot, etc, 2020.
+- <[Ludii as a competition platform](https://ieeexplore.ieee.org/abstract/document/8848084)> <[Github Link](https://github.com/Ludeme/Ludii)> <[Competition Link](https://github.com/Ludeme/LudiiAICompetition)> by Stephenson, M., Piette, E., Soemers, D.J. and Browne, C., 2019.
+- <[TAG: Tabletop Games Framework](https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y)> <[Github Link](https://github.com/GAIGResearch/TabletopGames)> by Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and Diego Perez-Liebana, 2020.
+
+- <[OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)> <[Github Link](https://github.com/openai/gym)> by Greg Brockman, Vicki Cheung,450Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zarem , 2016.
+- <[Pettingzoo: Gym for multi-agent reinforcement learning](https://github.com/Farama-Foundation/PettingZoo)> <[Github Link](https://github.com/Farama-Foundation/PettingZoo)> by Terry, J. K and Black, Benjamin and Grammel, Nathaniel and Jayakumar, Mario and Hari, Ananth and Sulivan, Ryan and Santos, Luis and Perez, Rodrigo and Horsch, Caroline and Dieffendahl, Clemens and Williams, Niall L and Lokesh, Yashas and Sullivan, Ryan and Ravi, Praveen, 2020.
+
+- <[Minimalistic Gridworld Environment for Gymnasium](https://github.com/Farama-Foundation/Minigrid)> by Chevalier-Boisvert, Maxime and Bahdanau, Dzmitry and Lahlou, Salem and Willems, Lucas and Saharia, Chitwan and Nguyen, Thien Huu and Bengio, Yoshua, 2018.
+- <[General Video Game AI](https://arxiv.org/pdf/1802.10363.pdf)> <[Github Link](https://github.com/GAIGResearch/GVGAI)> <[Competition Link](http://aingames.cn/gvgai/cog2021/)> by iego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D Gaina, Julian Togelius, and Simon M Luca, 2019.
+- <[STRATEGA: A General Strategy Games Framework](https://www.tnt.uni-hannover.de/papers/data/1606/2020__AIIDE_SGW__STRATEGA__A_General_Strategy_Games_Framework.pdf)> <[Github Link](https://github.com/GAIGResearch/Stratega)> by Dockhorn, A., Grueso, J.H., Jeurissen, D. and Liebana, D.P., 2020.
+- <[Griddly: A platform for AI research in games](https://github.com/Bam4d/Griddly/blob/develop/README.md)> <[Github Link](https://github.com/Bam4d/Griddly)> by Christopher Bamfor, 2021.
+- <[Melting Pot](http://proceedings.mlr.press/v139/leibo21a/leibo21a.pdf)> <[Github Link](https://github.com/deepmind/meltingpot)> by Joel Z. Leibo .etc , 2021.
+
+- <[Playing SNES in the Retro Learning Environment](https://arxiv.org/pdf/1611.02205.pdf)> <[Github Link](
+https://github.com/nadavbh12/Retro-Learning-Environment)> <[Competition Link](https://openai.com/blog/retro-contest/)> by Nadav Bhonker, Shai Rozenberg and Itay Hubara , 2016.
+- <[Leveraging Procedural Generation to Benchmark Reinforcement Learning](https://arxiv.org/abs/1912.01588)> <[Github Link](https://github.com/openai/procgen)> <[Competition Link](https://www.aicrowd.com/challenges/neurips-2020-procgen-competition)> by Cobbe, Karl and Hesse, Christopher and Hilton, Jacob and Schulman, John, 2019.
+- <[AI Olympics Competition](https://github.com/jidiai/Competition_Olympics-Integrated)> <[Competition Link](http://www.jidiai.cn/compete_detail?compete=17)> by  Zhang Haifeng and Yahui C , 2022.
+
+- <[DeepMind Lab](arXiv:1612.0380)> <[Github Link](https://github.com/deepmind/lab)> by Charles Beattie, Joel Z Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, et al. , 2016.
+- <[EMERGENT TOOL USE FROM MULTI-AGENT AUTOCURRICULA](https://arxiv.org/abs/1909.07528)> <[Github Link](https://github.com/openai/multi-agent-emergence-environments)> by Baker, Bowen and Kanitscheider, Ingmar and Markov, Todor and Wu, Yi and Powell, Glenn and McGrew, Bob and Mordatch, Igor , 219.
+
+- <[MiniWorld: Minimalistic 3D Environment for RL & Robotics Research](https://github.com/Farama-Foundation/Miniworld)> by Chevalier-Boisvert, Maxime, 2018.
 
 ## Game for Design
+
+
+
 
 <!-- ### Game Tuning
 
